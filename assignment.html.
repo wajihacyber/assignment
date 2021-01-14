@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=UTF-8>
+    <title>final project | WD4E</title>
+</head>
+     <body>
+         <header>
+               <h1><mark>wajiha nabeel</mark></h1>
+                <nav>
+                 <a href="#">one</a>
+                 <a href="#">two</a>
+                 <a href="#">three</a>
+                  <a href="#"<mark>contact</mark></a>
+                </nav>
+          </header>
+         <section>
+             <h2>favorite foods</h2>      
+              <ul>
+                 <li><mark>mango</mark></li>
+                 <li><mark>apple</mark</li>
+                 <li><mark>pineapple</mark></li>
+                 <li><mark>spaghetti</mark></li>
+            </ul>
+           </section>
+           <section>
+               <h2>achievement</h2>
+               progress in this course(100%)<progress value="100" max="100"></progress><br>
+               progress in specialization capstone(20%)<progress value="20" max="100"</progress><br>
+              progress in life goals<mark>(60%)<progress value="50" max="100"</progress></mark><br>
+           </section>
+           <section>
+               <h2>More About Me</h2>
+           <details>
+              <summary>My Childhood</summary>
+           <p><mark>I love my childhood.i grew up in LAHORE. here  really miss my house and friends</mark></p>
+            </details>
+         </section>
+        <footer>
+      <img src="https://www.intro-webdesign.com/images/newlogo.png alt="newlogo.png">
+     this page was created by<mark>wajiha Nabeel</mark &amp; collen van lent. To learn more about web design, visit <a href="https://www.intro-webdesign.com/">intro to web design</a>.
+        </footer>
+      </body>
+   </html>
